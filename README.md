@@ -1,10 +1,12 @@
-# Tauri + Sycamore
+# Tauri + Leptos
 
-This template should help get you started developing with Tauri and Sycamore.
+This example should help get you started developing with Tauri and Leptos.
 
-![App Screenshot](./Screenshot-light.png#gh-light-mode-only)
-![App Screenshot](./Screenshot-dark.png#gh-dark-mode-only)
+![App Screenshot](./Screenshot-light.png)
 
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## Needed build tools:
+You need to install [Trunk](https://trunkrs.dev/#install) add [Tauri](https://tauri.app/)
+
+## Running Example
+run `cargo tauri dev` add everything should work
